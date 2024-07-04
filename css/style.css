@@ -1,0 +1,454 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: "Jost", sans-serif;
+}
+
+.menu2 {
+    margin-right: 470px;
+}
+
+.logo {
+    margin-right: 300px !important;
+
+}
+.font-header{
+    font-size: 18px;
+}
+.decoration{
+    text-decoration: none;
+}
+.luxury-section {
+
+    background-image: url(../images/banner3.jpg);
+    background-attachment: fixed;
+    height: 100vh;
+
+}
+
+.bg-height {
+    width: 100%;
+    height: 400px;
+}
+
+
+.bg-color {
+    background-color: #111111;
+}
+
+
+.contact {
+    width: 25px;
+
+}
+
+.search {
+    width: 24px;
+}
+
+.nav2 {
+    margin-left: 435px;
+}
+
+.bg-image {
+    background: url(/images/hero\ background.jpg);
+    /* height: 82vh; */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.btn {
+    box-shadow: -1px 3px 28px -2px rgba(255, 255, 255, 0.75);
+
+
+}
+.box-card{
+    width: 80%;
+    background-color: #222222;
+    padding: 20px;
+}
+
+
+
+.light {
+    margin-top: 180px;
+}
+
+.light-m {
+    top: 34%;
+
+}
+
+.digit {
+    top: 85%;
+    left: 10%;
+}
+
+.sixty {
+    top: 10%;
+    left: 5%;
+}
+
+.sixtey {
+    top: 13%;
+    left: 5%;
+}
+
+.digitt2 {
+    top: 82%;
+    left: 10%;
+}
+
+/* second bg */
+.background-img {
+
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 28px;
+
+}
+
+.text-bg {
+    margin-top: 170px !important;
+}
+
+.font1 {
+    font-size: 8px;
+}
+
+.font2 {
+    font-size: 10px;
+}
+
+.font3 {
+    font-size: 5px;
+}
+
+.luxury {
+    font-size: 58px;
+    line-height: 38px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.setting {
+    top: 7%;
+    left: 14%;
+}
+
+.top {
+    margin-top: 100px;
+}
+
+.bg3-img {
+    background: url(../images/bg3\ img.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 60% 100%;
+    background-position-x: left;
+    
+
+}
+
+
+.card{
+width: 400px;
+border:none ;
+}
+
+
+.margin-r {
+    margin-right: 170px;
+}
+
+.margin-l {
+    margin-bottom: 100px !important;
+}
+.button-hover{
+    border: 3px solid white;
+    background: none;
+    color: white;
+    padding: 10px 25px;
+    transition: all 0.5s;
+    
+}
+.button-hover:hover{
+    
+    box-shadow: 0px 0px 10px 0px white;
+
+    
+}
+
+/* blog */
+.box {
+    border: 1px solid rgb(85, 82, 79);
+    width: 250px;
+    height: 470px;
+}
+
+.box2 {
+    border: 1px solid rgb(85, 82, 79);
+    width: 250px;
+    height: 470px;
+
+
+}
+
+.box3 {
+    border: 1px solid rgb(85, 82, 79);
+    width: 100%;
+
+}
+
+.link-box {
+    list-style: none;
+}
+
+
+.para {
+    font-size: 20px;
+}
+
+.bg-blog {
+    background-color: #222222;
+
+}
+
+.from-input input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid #b0aaac;
+    width: 400px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    margin-top: 11px !important;
+    background: none;
+    padding-bottom: 10px;
+}
+
+.from-input input:focus {
+    outline: none;
+}
+
+.subscribe {
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: 3px solid #ffff !important;
+    width: 150px;
+    margin-bottom: 20px !important;
+    font-size: 16px;
+
+    background: none;
+}
+
+/* shop */
+.buttons{
+    margin-right: 95px;
+}
+.box-shop{
+    border: 1px solid rgb(85, 82, 79);
+    width: 100%;
+    height: 380px;
+   
+    
+}
+.font-shop-p{
+    font-size: 16px;
+}
+.box-shopl{
+    border: 1px solid rgb(85, 82, 79);
+    width: 100%;
+   
+}
+.box-nav{
+    border: 1px solid rgb(85, 82, 79);
+    width: 250px;
+    height: 580px;
+    
+}
+.box-div{
+    border: 1px solid rgb(85, 82, 79);
+    width: 250px;
+    height: 500px;
+
+}
+.font{
+    font-size: 14px;
+
+}
+
+.grid{
+    background: none;
+    padding:5px 10px;
+}
+.boxb {
+    margin-top: 9px;
+   box-sizing: border-box;
+    font-size: 14;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  .subscribe-SHOP{
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: 3px solid #ffff !important;
+    width: 200px;
+    margin-bottom: 20px !important;
+    font-size: 16px;
+
+    background: none;
+
+  }
+  .box-imgs{
+    border: 1px solid rgb(85, 82, 79);
+    width: 250px;
+    height: 560px;
+
+
+  }
+  /* signup */
+  .signup-box{
+    border: 1px solid rgb(85, 82, 79);
+    width: 440px;
+    height: 220px;
+  }
+  .font-sign{
+    font-size: 14px!important;
+  }
+  .box-nav-sign{
+    border: 1px solid rgb(85, 82, 79);
+    width: 220px;
+    height: 480px;
+
+  }
+  .signup-detail{
+    border: 1px solid rgb(85, 82, 79);
+    width: 100%;
+    height: auto;
+    
+
+  }
+  .form-control{
+    background: none;
+  }
+  .form-control:focus{
+    background: none;
+    
+    
+
+  }
+  .form-control::placeholder{
+    color: rgb(58, 54, 54)!important;
+
+  }
+  
+  .form-label{
+    color:white!important;
+    
+  }
+  .button-hover2{
+    border: 3px solid white;
+    background: none;
+    color: white;
+    padding: 6px 35px;
+    transition: all 0.5s;
+    
+
+  }
+  .button-hover2:hover{
+    box-shadow: 0px 0px 10px 0px white;
+}
+.box-navs-sign {
+    border: 1px solid rgb(85, 82, 79);
+    width: 220px;
+    height: 280px;
+
+}
+/* register */
+.hr-thin{
+    height: 2px; 
+    border: none; 
+    background-color: #524e4e;
+}
+ /* task */
+ .box-task{
+    border: 1px solid rgb(85, 82, 79);
+    width: 1000px;
+
+ }
+ /* contact */
+ .contact-box{
+    border: 1px solid rgb(37, 36, 36);
+    width: 300px;
+    height: 600px;
+
+ }
+ .icon-home{
+    background-color: #363434!important;
+ }
+ .text-color{
+    color:#524e4e;
+    font-size: 14px;
+ }
+ .cont{
+    width: 100%;
+    
+ }
+ input::placeholder{
+    color: white;
+ }
+ textarea {
+    height: 230px;
+ }
+ .contact-btn{
+    margin-left: 420px!important;
+
+ }
+ .mt-6{
+    margin-top: 10%;
+ }
+  
+  @media (max-width: 576px) {
+    .boxb p  {
+      font-size: 14px;
+    }
+    .bg3-img{
+       background-size: 70% 80%;
+       background-position-y: center;
+    }
+    .mt-6{
+        margin-top: 45%;
+     }
+  }
+
+  @media (min-width: 577px) and (max-width: 768px) {
+    .boxb p {
+      font-size: 16px;
+    }
+    .bg3-img{
+        background-size: 70% 80%;
+        background-position-y: center;
+    }
+  }
+
+  @media (min-width: 769px) {
+    .boxb p {
+      font-size: 16px;
+    }
+
+  }
+
+
+@media screen and (min-width:648px) {
+    .mega-menu {
+        width: 640px;
+        transform: translateY(-120px, 4px, 0) !important;
+    }
+
+}
